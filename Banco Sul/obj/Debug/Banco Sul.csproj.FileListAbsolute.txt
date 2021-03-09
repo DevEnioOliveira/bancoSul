@@ -1,0 +1,19 @@
+C:\Users\eniob\Desktop\G2 - desktop - v3\Banco Sul\Banco Sul\bin\Debug\Banco Sul.exe.config
+C:\Users\eniob\Desktop\G2 - desktop - v3\Banco Sul\Banco Sul\bin\Debug\Banco Sul.exe
+C:\Users\eniob\Desktop\G2 - desktop - v3\Banco Sul\Banco Sul\bin\Debug\Banco Sul.pdb
+C:\Users\eniob\Desktop\G2 - desktop - v3\Banco Sul\Banco Sul\obj\Debug\Banco Sul.csprojAssemblyReference.cache
+C:\Users\eniob\Desktop\G2 - desktop - v3\Banco Sul\Banco Sul\obj\Debug\Banco_Sul.Main.resources
+C:\Users\eniob\Desktop\G2 - desktop - v3\Banco Sul\Banco Sul\obj\Debug\Banco_Sul.Properties.Resources.resources
+C:\Users\eniob\Desktop\G2 - desktop - v3\Banco Sul\Banco Sul\obj\Debug\Banco Sul.csproj.GenerateResource.cache
+C:\Users\eniob\Desktop\G2 - desktop - v3\Banco Sul\Banco Sul\obj\Debug\Banco Sul.csproj.CoreCompileInputs.cache
+C:\Users\eniob\Desktop\G2 - desktop - v3\Banco Sul\Banco Sul\obj\Debug\Banco Sul.exe
+C:\Users\eniob\Desktop\G2 - desktop - v3\Banco Sul\Banco Sul\obj\Debug\Banco Sul.pdb
+C:\Users\eniob\Desktop\G2 - desktop - v3\Banco Sul\Banco Sul\obj\Debug\Banco_Sul.NovoCliente.resources
+C:\Users\eniob\Desktop\G2 - desktop - v3\Banco Sul\Banco Sul\bin\Debug\MySql.Data.dll
+C:\Users\eniob\Desktop\G2 - desktop - v3\Banco Sul\Banco Sul\bin\Debug\Google.Protobuf.dll
+C:\Users\eniob\Desktop\G2 - desktop - v3\Banco Sul\Banco Sul\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eniob\Desktop\G2 - desktop - v3\Banco Sul\Banco Sul\bin\Debug\Renci.SshNet.dll
+C:\Users\eniob\Desktop\G2 - desktop - v3\Banco Sul\Banco Sul\bin\Debug\MySql.Data.xml
+C:\Users\eniob\Desktop\G2 - desktop - v3\Banco Sul\Banco Sul\obj\Debug\Banco Sul.csproj.CopyComplete
+C:\Users\eniob\Desktop\G2 - desktop - v3\Banco Sul\Banco Sul\obj\Debug\Banco_Sul.Atualizar.resources
+C:\Users\eniob\Desktop\G2 - desktop - v3\Banco Sul\Banco Sul\obj\Debug\Banco_Sul.Excluir.resources
